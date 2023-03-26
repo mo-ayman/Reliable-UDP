@@ -13,8 +13,8 @@ This implementation of reliable UDP provides the following features:
 ## Usage
 To use the reliable UDP protocol in your application, you can follow these steps:
 
-1. Clone the repository: git clone https://github.com/mo-ayman/Reliable-UDP.git
-2. Execute the server (main.cpp) then execute the client (client.cpp)
+1. Clone the repository: git clone `https://github.com/mo-ayman/Reliable-UDP.git`
+2. Execute the server `main.cpp` then execute the client `client.cpp`
 
 ## License
 
